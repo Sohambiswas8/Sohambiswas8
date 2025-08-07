@@ -1,9 +1,9 @@
-### Hi there ! Soham's here 👋
+### Hi there! Soham's here 👋
 
 
-- 🔭 I’m currently working as Data Analyst at IIT, Jodhpur, India
-- 🌱 My work here is in computational genomics, population genetics and machine learning
-- 👯 I’m open to collaborate. Data science and Big-data-bioinformatics is what I'm fascinated about.   
-- 💬 My aspiration ... PhD in Bioinformatics, Systems Medicine & AI 
+- 🔭 I’m currently working as a PhD Fellow at Manipal University, Jaipur, India
+- 🌱 My work here is in computational systems genomics, population genetics and machine learning
+- 👯 I’m open to collaborating. Data science and big data bioinformatics are what fascinate me.   
+- 💬 My aspiration ... bioinformatics software developer, big data curation, bioinformatics cloud resource management    
 
 
